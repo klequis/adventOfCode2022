@@ -39,6 +39,7 @@ library
 executable day01-exe
   main-is: Main.hs
   other-modules:
+      Elfs
       Paths_day01
   hs-source-dirs:
       app
